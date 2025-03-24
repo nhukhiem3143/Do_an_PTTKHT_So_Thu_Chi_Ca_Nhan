@@ -1,1 +1,1 @@
-# Đồ án Phân tích thiết kế hệ thống : Sổ Thu Chi Cá Nhân
+# Đồ án Phân tích thiết kế hệ thống : Quản Lý Sổ Thu Chi Cá Nhân
