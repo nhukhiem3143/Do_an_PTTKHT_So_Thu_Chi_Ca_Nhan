@@ -1,1 +1,2 @@
-# Do_an_PTTKHT_So_Thu_Chi_Ca_Nhan
+# Đồ án Phân tích thiết kế hệ thống : 
+# Sổ Thu Chi Cá Nhân
