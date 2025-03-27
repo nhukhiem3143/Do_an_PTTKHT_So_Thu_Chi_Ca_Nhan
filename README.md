@@ -1,8 +1,16 @@
 # Đồ án Phân tích thiết kế hệ thống : Quản Lý Sổ Thu Chi Cá Nhân
-DÀN Ý CÁC CHỨC NĂNG CỦA HỆ THỐNG, ĐỐI TƯỢNG SỬ DỤNG
+# Nguyễn Như Khiêm - K225480106030
+# DÀN Ý CÁC CHỨC NĂNG CỦA HỆ THỐNG, ĐỐI TƯỢNG SỬ DỤNG
 ## Đối tượng sử dụng
-1. Người dùng cá nhân: Quản lý thu nhập, chi tiêu cá nhân.
-2. Người dùng doanh nghiệp nhỏ: Theo dõi dòng tiền đơn giản.
+1. Cá nhân
+- Quản lý thu nhập & chi tiêu cá nhân.
+- Theo dõi tài chính cá nhân một cách dễ dàng.
+2. Hộ gia đình
+- Ghi chép và kiểm soát chi tiêu chung của gia đình.
+- Lập kế hoạch tài chính dài hạn.
+3. Doanh nghiệp nhỏ
+- Theo dõi dòng tiền thu/chi cho hoạt động kinh doanh.
+- Quản lý tài khoản, báo cáo tài chính đơn giản.
 ## Chức năng của hệ thống
 1. Quản lý thu nhập
 - Nhập các khoản thu nhập từ nhiều nguồn (lương, đầu tư, thưởng, kinh doanh, v.v.).
@@ -35,4 +43,3 @@ DÀN Ý CÁC CHỨC NĂNG CỦA HỆ THỐNG, ĐỐI TƯỢNG SỬ DỤNG
 - Đăng ký/đăng nhập tài khoản người dùng.
 - Mã hóa dữ liệu tài chính cá nhân.
 - Sao lưu và khôi phục dữ liệu.
-
