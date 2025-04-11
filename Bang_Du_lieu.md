@@ -52,4 +52,9 @@
 
 ![Screenshot 2025-04-11 215418](https://github.com/user-attachments/assets/08d7ddd8-6bc2-47ba-b51f-0351f7465ade)
 
+## Bảng Diagram
+
+![Screenshot 2025-04-11 222002](https://github.com/user-attachments/assets/27d2bc1d-94f8-4ce2-8166-d92ab3a10d62)
+
+
 # The End
