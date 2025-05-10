@@ -5,12 +5,6 @@
 1. Cá nhân
 - Quản lý thu nhập & chi tiêu cá nhân.
 - Theo dõi tài chính cá nhân một cách dễ dàng.
-2. Hộ gia đình
-- Ghi chép và kiểm soát chi tiêu chung của gia đình.
-- Lập kế hoạch tài chính dài hạn.
-3. Doanh nghiệp nhỏ
-- Theo dõi dòng tiền thu/chi cho hoạt động kinh doanh.
-- Quản lý tài khoản, báo cáo tài chính đơn giản.
 ## Chức năng của hệ thống
 1. Quản lý thu nhập
 - Nhập các khoản thu nhập từ nhiều nguồn (lương, đầu tư, thưởng, kinh doanh, v.v.).
